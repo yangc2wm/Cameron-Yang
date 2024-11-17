@@ -1,3 +1,4 @@
+
 # Cameron-Yang
 # About
 I am a Junior at Whitman College, pursuing a degree in computer science with a strong passion for software development. I enjoy the process of continuous learning, research, collaboration, and experimentation. Recently, I've been focusing on data analytics, recognizing the vital role it plays in helping businesses make informed decisions and take action.
@@ -17,3 +18,6 @@ During this project I aimed to find which fast food restaurants Professor Schuel
 Some possible issues with my analysis however is that I recorded instances in a nonoptimal way causing there to be way too many instances of certain spots including the Taqueria.
 
 [Interactive Mapbox Plot](where_s_schueller.html)
+
+Plot of Taqueria and instances of Professor Schueller when he is there
+<img width="734" alt="Screen Shot 2024-11-16 at 8 19 18 PM" src="https://github.com/user-attachments/assets/c229aa08-0ff9-49c1-a8e1-d3cc2e7308b2">

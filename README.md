@@ -16,4 +16,4 @@ During this project I aimed to find which fast food restaurants Professor Schuel
 
 Some possible issues with my analysis however is that I recorded instances in a nonoptimal way causing there to be way too many instances of certain spots including the Taqueria.
 
-[Interactive Mapbox Plot](pk.eyJ1IjoieWFuZ2MyIiwiYSI6ImNtM2t1NTIwcTBqMzgycG9mOWFsMDZkaG4ifQ.Efa_BBMl7adQbQe25H16PQ)
+[Interactive Mapbox Plot](where_s_schueller.html)

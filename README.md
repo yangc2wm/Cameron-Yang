@@ -34,8 +34,7 @@ Hello! I'm **Cameron Yang**, currently a junior pursuing a major in **Computer S
 - **Finding which concentration of STEM that is Least Saturated**: https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights
 
 ## Wheres Schueller?
-{% Downloads/barmap_visualization.html %}
-
+{% include_relative folder/barmap_visualization.html %}
 
 
 
